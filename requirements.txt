@@ -1,0 +1,3 @@
+﻿pyzotero>=1.5.0
+notebooklm-py
+python-dotenv
